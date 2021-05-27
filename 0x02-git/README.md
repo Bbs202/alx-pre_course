@@ -23,6 +23,8 @@
 	<li>0x01.Emacs</li>
 	<li>0x02.Git</li>
 	</ul>
-
+	
+	    <p class="p02">
+		    Alx is so cool.</p>
 	</body>
 	</html>
